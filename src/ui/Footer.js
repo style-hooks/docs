@@ -17,7 +17,7 @@ const Footer = props => (
         h='100%'
         p='l3:phone l4:tablet l5:desktop'
         color='secondaryLink'
-        href='https://github.com/jaredLunde/style-hooks'
+        href='https://github.com/style-hooks'
       >
         <Icon name='gitHub' size='18' pos='relative'/>
       </Text>

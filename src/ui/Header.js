@@ -82,7 +82,7 @@ const Header = props => (
       p="l4"
       d="none:phone flex:tablet"
       color="secondaryLink"
-      href="https://github.com/jaredLunde/style-hooks"
+      href="https://github.com/style-hooks"
     >
       <Icon name="gitHub" size="18" pos="relative"/>
     </Text>
